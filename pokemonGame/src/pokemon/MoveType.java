@@ -1,0 +1,5 @@
+package pokemon;
+
+public enum MoveType {
+  ATTACK, DEFENCE_BOOST, ATTACK_BOOST, HEAL, DEFENCE_REDUCE, ATTACK_REDUCE
+}
